@@ -11,6 +11,8 @@
 
 A practical command line gadget during web class.
 
+🌟 Some big game's strategy,and have cool arithmetic magic
+
 **English** | [简体中文](./README.zh-Hans.md)
 
 ### Contributors
